@@ -96,6 +96,8 @@ pydeck==0.8.1b0
 Pygments==2.17.2
 pyparsing==3.1.2
 PyPDF2==3.0.1
+pypdf2
+pymupdf
 PyPika==0.48.9
 pyproject_hooks==1.0.0
 python-dateutil==2.9.0.post0
